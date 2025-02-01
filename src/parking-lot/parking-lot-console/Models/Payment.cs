@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using parking_lot_console.Models.Enums;
 
 namespace parking_lot_console.Models
 {

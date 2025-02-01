@@ -1,4 +1,6 @@
-﻿namespace parking_lot_console.Models
+﻿using parking_lot_console.Models.Enums;
+
+namespace parking_lot_console.Models
 {
     public class Gate : BaseModel
     {
